@@ -1,7 +1,7 @@
 site_name: Bonjour Python
 site_url: https://loop.brain.fr/bonjour-python
-repo_url: https://github.com/exaluc/bonjour-python
-repo_name: exaluc/bonjour-python
+repo_url: https://github.com/gni/bonjour-python
+repo_name: gni/bonjour-python
 nav:
     - Accueil: index.md
     - Introduction: 1-introduction.md
